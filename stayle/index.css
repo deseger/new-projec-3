@@ -1,0 +1,308 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.bg {
+    background-color: #14110E;
+    width: 1519px;
+    height: 7467px;
+}
+
+.contener {
+    display: flex;
+    padding: 51px 200px;
+    gap: 181px;
+}
+
+.hed-title ul {
+    display: flex;
+    gap: 48px;
+}
+
+.hed-title a {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.78px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.hed-title a:hover {
+    color: #C99E71;
+    transition-duration: 0.2s;
+}
+
+.hed-shop ul {
+    display: flex;
+    gap: 48px;
+}
+
+.hed-shop a {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.78px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.hed-shop a:hover {
+    color: #C99E71;
+    transition-duration: 0.2s;
+}
+
+.contener-2 {
+    background-image: url(/image/Rectangle\ 12\ \(1\).png);
+    width: 1519px;
+    height: 860px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 147px 275px;
+}
+
+.main-title h2 {
+    width: 529px;
+    font-family: Righteous;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 93.6px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom: 32px;
+}
+
+.main-title p {
+    width: 511px;
+    font-family: Urbanist;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+    color: #FFFFFFCC;
+    margin-bottom: 64px;
+}
+
+.main-title button {
+    width: 202px;
+    height: 70px;
+    padding: 24px 40px 24px 40px;
+    gap: 10px;
+    background-color: #C99E71;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+    text-align: left;
+    color: #FFFFFF;
+    border: none;
+}
+
+.coffe-title h6 {
+    font-family: Righteous;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.8px;
+    text-align: left;
+    color: #C99E71;
+}
+
+.coffe-title p {
+    font-family: Righteous;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.8px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.coffe-title {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 24px;
+}
+
+.contener-3 {
+    display: flex;
+    justify-content: center;
+    gap: 36px;
+    margin-bottom: 140px;
+}
+
+.new-img {
+    margin-bottom: 32px;
+}
+
+.create {
+    background-color: #1C1814;
+    width: 510px;
+    height: 635px;
+    padding: 120px 56px;
+
+}
+
+.create h6 {
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: left;
+    color: #C99E71;
+    margin-bottom: 12px;
+
+}
+
+.create h2 {
+    font-family: Righteous;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 62.4px;
+    text-align: left;
+    color: #FFFFFF;
+    width: 398px;
+    margin-bottom: 36px;
+}
+
+.create p {
+    font-family: Urbanist;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28.8px;
+    text-align: left;
+    color: #FFFFFFCC;
+    width: 398px;
+}
+
+.contener-4 {
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+    margin-bottom: 140px;
+}
+
+.popular p {
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: center;
+    color: #C99E71;
+}
+
+.popular h2 {
+    font-family: Righteous;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 62.4px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 104px;
+}
+
+.coffe-brazil {
+    width: 366px;
+    height: 579px;
+    background-color: #121315;
+    padding: 48px 48px 36px 48px;
+}
+
+.coffe-brazil img {
+    margin-bottom: 36px;
+}
+
+.coffe-brazil h4 {
+    font-family: Righteous;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.8px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 38px;
+}
+
+.coffe-brazil button {
+    width: 169px;
+    height: 48px;
+    border: none;
+    background-color: #C99E71;
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-left: 50px;
+}
+
+.coffe-brazil-2 {
+    width: 366px;
+    height: 579px;
+    background-color: #121315;
+    padding: 48px 48px 36px 48px;
+}
+
+.coffe-brazil-2 img {
+    margin-bottom: 36px;
+}
+
+.coffe-brazil-2 p {
+    margin-left: 40px;
+    margin-bottom: 22px;
+}
+
+.coffe-brazil-2 h4 {
+    font-family: Righteous;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.8px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 38px;
+}
+
+.coffe-brazil-2 h3 {
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.coffe-brazil-2 span {
+    font-family: Urbanist;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    color: #C99E71;
+}
+
+.brazil {
+    display: flex;
+    justify-content: center;
+    gap: 36px;
+    margin-bottom: 56px;
+}
+
+.coffe-btn button {
+    width: 252px;
+    height: 62px;
+    background-color: #C99E71;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+    color: #FFFFFF;
+}
+
+.coffe-btn {
+    display: flex;
+    justify-content: center;
+}
